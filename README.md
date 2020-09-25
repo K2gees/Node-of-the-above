@@ -1,11 +1,11 @@
 
-  # Believe it or Nodee
+  #Believe it or Node
 
-  # Project Title
-  Believe it or Node
+  #Project Title
+  Node of the Above
 
-  # Description
-  Create ReadMe
+  #Description
+  This program will help the end user create a clean and professional looking README page.  Answer a few questions and select the options that most fit your document and you'll be ready to publish in no time.
 
-  # License
-  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  #License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
