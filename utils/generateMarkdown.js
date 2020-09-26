@@ -49,12 +49,12 @@ function generateMarkdown(data) {
   ${data.contributing}
 
   # Tests
-  ${data.tests} [Test Video Here.](https://drive.google.com/file/d/1gHvzNrycm-ruqv0n76hPxtG-MBMyW3JU/view) 
+  ${data.tests} [Watch this test video!](https://drive.google.com/file/d/1gHvzNrycm-ruqv0n76hPxtG-MBMyW3JU/view) 
 
   # Questions
  Github Username: ${data.questionOne}
  
- [Github Link](${data.githubLink})
+ [Github Address](${data.githubLink})
   
   If you have questions or require more information please contact me at: ${data.questionTwo}
 `;

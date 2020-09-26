@@ -34,11 +34,11 @@
   Please leave an email or Github address to be approved to contribute.
 
   # Tests
-   [Test Video Here.](https://drive.google.com/file/d/1gHvzNrycm-ruqv0n76hPxtG-MBMyW3JU/view) 
+   [Watch this test video!](https://drive.google.com/file/d/1gHvzNrycm-ruqv0n76hPxtG-MBMyW3JU/view) 
 
   # Questions
  Github Username: K2gees
  
- [Github Link](github.com/K2gees/Node-of-the-above)
+ [Github Address](https://github.com/K2gees/node-of-the-above)
   
   If you have questions or require more information please contact me at: K2gees@gmail.com
