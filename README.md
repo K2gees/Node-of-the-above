@@ -1,9 +1,8 @@
 
-  # License
-  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
    Project Title
- # Node to Self
+ # Node to self
 
   # Description
   This program will help the end user create a clean and professional looking README page.  Answer a few questions and select the options that most fit your document and you'll be ready to publish in no time.
@@ -28,6 +27,9 @@
   # Usage
   User will be able to create a README file with a few clicks that will allow clients to see the pertinent 
 
+  # License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   # Contributing
   Please leave an email or github address to be approved to contribute.
 
@@ -35,6 +37,6 @@
   
 
   # Questions
- Github Username: [K2gees](github.com/k2gees)
+ Github Username: [K2gees](github.com/K2gees)
   
-  If you have questions or require more information please contact me at: k2gees@gmail.com
+  If you have questions or require more information please contact me at: K2gees@gmail.com

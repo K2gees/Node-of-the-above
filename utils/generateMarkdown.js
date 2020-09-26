@@ -14,7 +14,6 @@ function getLicense(licenseName){
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  # License
   ${getLicense(data.license)}
 
    Project Title
@@ -42,6 +41,9 @@ function generateMarkdown(data) {
 
   # Usage
   ${data.usage}
+
+  # License
+  ${getLicense(data.license)}
 
   # Contributing
   ${data.contributing}
