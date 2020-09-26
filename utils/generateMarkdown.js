@@ -42,6 +42,7 @@ function generateMarkdown(data) {
 
   # Questions
   ${data.questionOne}
+  
   ${data.questionTwo}
 `;
 }
