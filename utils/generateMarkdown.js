@@ -24,6 +24,7 @@ function generateMarkdown(data) {
 
   # Table of Contents
   ${data.toc}
+  [Installation](#installation)
 
   # Installation
   ${data.installation}
