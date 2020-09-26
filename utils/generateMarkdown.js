@@ -14,16 +14,35 @@ function getLicense(licenseName){
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  #Believe it or Node
+  # Node to Self
 
-  #Project Title
+  # Project Title
   ${data.title}
 
-  #Description
+  # Description
   ${data.description}
 
-  #License
+  # Table of Contents
+  ${data.toc}
+
+  # Installation
+  ${data.installation}
+
+  # Usage
+  ${data.usage}
+
+  # License
   ${getLicense(data.license)}
+
+  # Contributing
+  ${data.contributing}
+
+  # Test
+  ${data.tests}
+
+  # Questions
+  ${data.questionOne}
+  ${data.questionTwo}
 `;
 }
 
