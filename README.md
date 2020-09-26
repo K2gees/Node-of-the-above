@@ -31,12 +31,14 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # Contributing
-  Please leave an email or github address to be approved to contribute.
+  Please leave an email or Github address to be approved to contribute.
 
   # Tests
-   '[Click this link](https://drive.google.com/file/d/1gHvzNrycm-ruqv0n76hPxtG-MBMyW3JU/view)' 
+   [Test Video Here.](https://drive.google.com/file/d/1gHvzNrycm-ruqv0n76hPxtG-MBMyW3JU/view) 
 
   # Questions
- Github Username: [K2gees](Github.com/K2gees)
+ Github Username: K2gees
+ 
+ [Github Link](github.com/K2gees/Node-of-the-above)
   
   If you have questions or require more information please contact me at: K2gees@gmail.com
