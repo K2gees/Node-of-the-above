@@ -18,11 +18,6 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'toc',
-        message: 'Write a table of contents separated by commas.'
-    },
-    {
-        type: 'input',
         name: 'installation',
         message: 'Installation instructions.'
     },

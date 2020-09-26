@@ -8,14 +8,14 @@
   This program will help the end user create a clean and professional looking README page.  Answer a few questions and select the options that most fit your document and you'll be ready to publish in no time.
 
   # Table of Contents
-  Installation, Usage, License, Contributing, Tests, Questions
+  
   [→ Installation](#installation)
 
   [→ Usage](#usage)
 
   [→ License](#license)
 
-  [→ Contributing(#contributing)
+  [→ Contributing](#contributing)
 
   [→ Tests](#tests)
 
@@ -28,10 +28,10 @@
   User will be able to create a README file with a few clicks that will allow clients to see the pertinent 
 
   # License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   # Contributing
-  Please leave your email and Github address to be approved to contribute.
+  Please leave an email or github address to be approved to contribute.
 
   # Tests
   
