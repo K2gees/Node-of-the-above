@@ -45,7 +45,7 @@ const questions = [
     {
         type: 'input',
         name: 'questionOne',
-        message: 'What is your github'
+        message: 'What is your github username'
     },
     {
         type: 'input',

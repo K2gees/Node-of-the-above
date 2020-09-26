@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
    Project Title
- # Node to self
+ # Node To Self
 
   # Description
   This program will help the end user create a clean and professional looking README page.  Answer a few questions and select the options that most fit your document and you'll be ready to publish in no time.
@@ -34,9 +34,9 @@
   Please leave an email or github address to be approved to contribute.
 
   # Tests
-  
+   '(https://drive.google.com/file/d/1dQZD3ClioJgHcmwtaiKFgx56kLzug1Vo/view)' 
 
   # Questions
- Github Username: [K2gees](github.com/K2gees)
+ Github Username: [K2gees](github.com/k2gees)
   
-  If you have questions or require more information please contact me at: K2gees@gmail.com
+  If you have questions or require more information please contact me at: k2gees@gmail.com
