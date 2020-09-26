@@ -14,10 +14,11 @@ function getLicense(licenseName){
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  # Node to Self
+  # License
+  ${getLicense(data.license)}
 
-  # Project Title
-  ${data.title}
+   Project Title
+ # ${data.title}
 
   # Description
   ${data.description}
@@ -42,9 +43,6 @@ function generateMarkdown(data) {
   # Usage
   ${data.usage}
 
-  # License
-  ${getLicense(data.license)}
-
   # Contributing
   ${data.contributing}
 
@@ -52,9 +50,9 @@ function generateMarkdown(data) {
   ${data.tests}
 
   # Questions
- Github Username ${data.questionOne}
+ Github Username: [${data.questionOne}](${data.githubLink})
   
-  Email Address ${data.questionTwo}
+  If you have questions or require more information please contact me at: ${data.questionTwo}
 `;
 }
 
