@@ -24,7 +24,17 @@ function generateMarkdown(data) {
 
   # Table of Contents
   ${data.toc}
-  [Installation](#installation)
+  [→ Installation](#installation)
+
+  [→ Usage](#usage)
+
+  [→ License](#license)
+
+  [→ Contributing(#contributing)
+
+  [→ Tests](#tests)
+
+  [→ Questions](#Questions)
 
   # Installation
   ${data.installation}
@@ -38,13 +48,13 @@ function generateMarkdown(data) {
   # Contributing
   ${data.contributing}
 
-  # Test
+  # Tests
   ${data.tests}
 
   # Questions
-  ${data.questionOne}
+ Github Username ${data.questionOne}
   
-  ${data.questionTwo}
+  Email Address ${data.questionTwo}
 `;
 }
 
