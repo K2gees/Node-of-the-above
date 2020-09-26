@@ -9,6 +9,7 @@
 
   # Table of Contents
   
+  [Installation](#installation)
 
   # Installation
   
@@ -26,6 +27,6 @@
   
 
   # Questions
-  K2gees
   
-  K2gees@gmail.com
+  
+  
