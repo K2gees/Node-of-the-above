@@ -49,7 +49,7 @@ function generateMarkdown(data) {
   ${data.contributing}
 
   # Tests
-  ${data.tests} '(https://drive.google.com/file/d/1dQZD3ClioJgHcmwtaiKFgx56kLzug1Vo/view)' 
+  ${data.tests} '[Click this link](https://drive.google.com/file/d/1gHvzNrycm-ruqv0n76hPxtG-MBMyW3JU/view)' 
 
   # Questions
  Github Username: [${data.questionOne}](${data.githubLink})
