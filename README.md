@@ -34,9 +34,9 @@
   Please leave an email or github address to be approved to contribute.
 
   # Tests
-   '(https://drive.google.com/file/d/1dQZD3ClioJgHcmwtaiKFgx56kLzug1Vo/view)' 
+   '[Click this link](https://drive.google.com/file/d/1gHvzNrycm-ruqv0n76hPxtG-MBMyW3JU/view)' 
 
   # Questions
- Github Username: [K2gees](github.com/k2gees)
+ Github Username: [K2gees](Github.com/K2gees)
   
-  If you have questions or require more information please contact me at: k2gees@gmail.com
+  If you have questions or require more information please contact me at: K2gees@gmail.com
